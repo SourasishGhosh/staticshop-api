@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "email": "23f3004075@ds.study.iitm.ac.in",
+    "version": "e2ffc273"
+  },
+  "products": [
+    // Paste ALL 18 products here exactly as given
+    {
+      "id": "prod-e2ffc273-001",
+      "name": "Basic Item 1",
+      "category": "electronics",
+      "price": 408.25,
+      "stock": 99,
+      "rating": 4.7
+    }
+    // ... (include all 18, no changes)
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 138516.89
+    }
+    // Optional: Add for other categories like "home", "clothing" to practice
+  }
+}
