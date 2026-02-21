@@ -148,4 +148,11 @@
     "stock": 100,
     "rating": 1.1
   }
-]
+],
+  "aggregations": {
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 138516.89
+    }
+  }
+}
