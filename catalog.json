@@ -151,7 +151,7 @@
 ],
   "aggregations": {
   "electronics": {
-    "count": 4,
+    "count": 6,
     "inventoryValue": 138516.89
   },
   "clothing": {
